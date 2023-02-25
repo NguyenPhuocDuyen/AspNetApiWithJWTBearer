@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp_Net_API_Authenticatoin_With_Bearer_JWT", "Asp_Net_API_Authenticatoin_With_Bearer_JWT\Asp_Net_API_Authenticatoin_With_Bearer_JWT.csproj", "{91BD1D95-2EAF-4016-AD3C-2FBAB8920722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BD1D95-2EAF-4016-AD3C-2FBAB8920722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BD1D95-2EAF-4016-AD3C-2FBAB8920722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BD1D95-2EAF-4016-AD3C-2FBAB8920722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BD1D95-2EAF-4016-AD3C-2FBAB8920722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86FFF64-8B78-41D7-9A8A-D87AF4349E1D}
+	EndGlobalSection
+EndGlobal
